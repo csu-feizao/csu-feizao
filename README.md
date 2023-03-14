@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**csu-feizao/csu-feizao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+<div>
+  <img width="410px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=csu-feizao&show_icons=true" />
+  <img width="410px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=csu-feizao" alt="Gift's LangStat" />
+</div>
 
-Here are some ideas to get you started:
+#### 👷 Check out what I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (5 days ago)
+- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (1 week ago)
+- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) - ESLint plugin with rules that help validate css modules imports (10 months ago)
+
+#### 🔭 Latest releases I've contributed to
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) ([1.76.1](https://github.com/microsoft/vscode/releases/tag/1.76.1), 6 days ago) - Visual Studio Code
+- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) ([v0.1.0](https://github.com/csu-feizao/eslint-plugin-css-modules-es/releases/tag/v0.1.0), 10 months ago) - ESLint plugin with rules that help validate css modules imports
+
+#### 🔨 My recent Pull Requests
+
+- [Set className and textContent in the dynamic style element &#39;monaco-colors&#39; before appended](https://github.com/microsoft/vscode/pull/176746) on [microsoft/vscode](https://github.com/microsoft/vscode) (5 days ago)
+- [fix(react): React.forwardRef return type should have &#39;children&#39; props](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/52604) on [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) (2 years ago)
+- [fix: function type of param with useDebounce return a wrong value](https://github.com/xnimorz/use-debounce/pull/95) on [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce) (2 years ago)
+- [fix #1032](https://github.com/docsifyjs/docsify/pull/1043) on [docsifyjs/docsify](https://github.com/docsifyjs/docsify) (3 years ago)
+
+#### 📜 My recent blog posts
+
+
+#### 📓 Gists I wrote
+
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+#### 📫 How to reach me
+
+- Email: 2564150105@qq.com
