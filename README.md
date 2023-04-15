@@ -15,7 +15,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode](https://github.com/microsoft/vscode) ([1.77.3](https://github.com/microsoft/vscode/releases/tag/1.77.3), 2 days ago) - Visual Studio Code
+- [microsoft/vscode](https://github.com/microsoft/vscode) ([1.77.3](https://github.com/microsoft/vscode/releases/tag/1.77.3), 3 days ago) - Visual Studio Code
 - [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) ([v0.1.0](https://github.com/csu-feizao/eslint-plugin-css-modules-es/releases/tag/v0.1.0), 11 months ago) - ESLint plugin with rules that help validate css modules imports
 
 #### 🔨 My recent Pull Requests
