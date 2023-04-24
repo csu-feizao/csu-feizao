@@ -11,12 +11,12 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 month ago)
 - [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (1 month ago)
-- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) - ESLint plugin with rules that help validate css modules imports (11 months ago)
+- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) - ESLint plugin with rules that help validate css modules imports (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) ([1.77.3](https://github.com/microsoft/vscode/releases/tag/1.77.3), 1 week ago) - Visual Studio Code
-- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) ([v0.1.0](https://github.com/csu-feizao/eslint-plugin-css-modules-es/releases/tag/v0.1.0), 11 months ago) - ESLint plugin with rules that help validate css modules imports
+- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) ([v0.1.0](https://github.com/csu-feizao/eslint-plugin-css-modules-es/releases/tag/v0.1.0), 1 year ago) - ESLint plugin with rules that help validate css modules imports
 
 #### 🔨 My recent Pull Requests
 
