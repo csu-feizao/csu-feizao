@@ -11,7 +11,6 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (1 month ago)
 - [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (1 month ago)
-- [csu-feizao/eslint-plugin-css-modules-es](https://github.com/csu-feizao/eslint-plugin-css-modules-es) - ESLint plugin with rules that help validate css modules imports (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
