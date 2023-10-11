@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [microsoft/vscode](https://github.com/microsoft/vscode) ([1.83.0](https://github.com/microsoft/vscode/releases/tag/1.83.0), 6 days ago) - Visual Studio Code
+- [microsoft/vscode](https://github.com/microsoft/vscode) ([1.83.0](https://github.com/microsoft/vscode/releases/tag/1.83.0), 1 week ago) - Visual Studio Code
 
 #### 🔨 My recent Pull Requests
 
