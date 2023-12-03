@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (8 months ago)
-- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (8 months ago)
+- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
