@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (6 days ago)
+- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (today)
 - [csu-feizao/i18n-auto-transformer](https://github.com/csu-feizao/i18n-auto-transformer) - A CLI tool to help your project support i18n easily (1 week ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (9 months ago)
 
@@ -26,6 +26,7 @@
 
 #### 📜 My recent blog posts
 
+- Eslint - [构建鲁棒性：自定义 Eslint 规则增强 React 错误边界在前端应用中的控制力度](https://github.com/csu-feizao/blog/issues/5)
 - 前端国际化 - [前端国际化(二): 平台旧国际化方案改造](https://github.com/csu-feizao/blog/issues/4)
 - 前端国际化 - [前端国际化(一): 手撸一个一键自动国际化工具](https://github.com/csu-feizao/blog/issues/3)
 - JS基础 - [(0, eval)('xxx') 和 eval('xxx') 这两种写法有什么区别？](https://github.com/csu-feizao/blog/issues/2)
