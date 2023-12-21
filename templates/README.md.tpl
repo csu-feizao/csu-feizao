@@ -24,6 +24,7 @@
 
 #### 📜 My recent blog posts
 
+- Eslint - [构建鲁棒性：自定义 Eslint 规则增强 React 错误边界在前端应用中的控制力度](https://github.com/csu-feizao/blog/issues/5)
 - 前端国际化 - [前端国际化(二): 平台旧国际化方案改造](https://github.com/csu-feizao/blog/issues/4)
 - 前端国际化 - [前端国际化(一): 手撸一个一键自动国际化工具](https://github.com/csu-feizao/blog/issues/3)
 - JS基础 - [(0, eval)('xxx') 和 eval('xxx') 这两种写法有什么区别？](https://github.com/csu-feizao/blog/issues/2)
