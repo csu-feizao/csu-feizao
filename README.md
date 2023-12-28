@@ -9,7 +9,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (6 days ago)
+- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (1 week ago)
 - [csu-feizao/i18n-auto-transformer](https://github.com/csu-feizao/i18n-auto-transformer) - A CLI tool to help your project support i18n easily (2 weeks ago)
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (9 months ago)
 
