@@ -10,7 +10,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (7 months ago)
-- [csu-feizao/i18n-auto-transformer](https://github.com/csu-feizao/i18n-auto-transformer) - A CLI tool to help your project support i18n easily (7 months ago)
+- [csu-feizao/i18n-auto-transformer](https://github.com/csu-feizao/i18n-auto-transformer) - A CLI tool to help your project support i18n easily (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
