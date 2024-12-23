@@ -9,7 +9,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [csu-feizao/blog](https://github.com/csu-feizao/blog) - 分享一些在学习工作中了解到的前端知识 (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
